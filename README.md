@@ -1,6 +1,7 @@
 # update
 ## Concept
 This is a release note of myself. 
+SEE: https://github.com/mori5321/updated/releases
 
 ## Purpose
 We should focus on what we changed from yesterday. Do not compared with others.
