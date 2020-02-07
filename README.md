@@ -19,16 +19,17 @@ for example '20.1.29'.
 - Assets Updated
 
 #### Knowledge Updated
-About what I come to know or recognize.
+What I know.
 
 #### Skill Updated
-About what I learn to do.
-
-#### Behaviour Updated
-About my tendency, preference, principle.
-
-#### Phillosophy Update
-About my phillosophy. 
+What I can do.
 
 #### Asset Updated
-About my assets.
+What I have.
+
+#### Behaviour Updated
+How I act.
+
+#### Phillosophy Update
+How I live.
+
